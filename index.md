@@ -5,7 +5,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
 banner_subtitle: Wildlife and Conservation Biology. Phd Candidate. Research Scientist.
-background_image: /images/ecm.jpg
+background_image: /images/mainbanner.jpg
 
 # all of the following variables are optional -----------------
 # page_url: /hello 
@@ -17,7 +17,7 @@ favicon: /assets/ico/favicon.ico
 # social media
 twitter_username: ECMartin_Sci # # your twitter handle
 github_username:  EllenCMartin # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+linkedin: ellen-martin-5794b5179 # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
