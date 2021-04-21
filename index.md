@@ -38,8 +38,8 @@ portfolio_description: PUB AND PRESENT SUMMARY HERE
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: Want to collaborate? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta: Connect # the heading for your CTA section
+cta_description: Want to collaborate? Please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:ecmartin33@gmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
