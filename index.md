@@ -5,7 +5,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
 banner_subtitle: Wildlife and Conservation Biology. PhD Candidate. Research Scientist.
-background_image: /images/mainbanner.jpg
+background_image: /images/mainbanner2.jpg
 
 # all of the following variables are optional -----------------
 # page_url: /hello 
