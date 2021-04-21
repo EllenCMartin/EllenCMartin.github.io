@@ -1,11 +1,14 @@
 # _config.yml
+_config.yml:
+
+
 
 # required, replace with your own information -----
 title: Ellen C. Martin
 author: Sara Gong
 description: > 
   Research Scientist
-baseurl: ""
+baseurl: "https://ellencmartin.github.io/"
 
 plugins:
   - jekyll-feed
