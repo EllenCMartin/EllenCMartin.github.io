@@ -35,7 +35,7 @@ portfolio_description: WORK SUMMARY HERE
 portfolio: Experience
 portfolio_description: EXPERIENCE SUMMARY HERE
 
-portfolio: Publications and Presentations
+portfolio: 'Publications and Presentations'
 portfolio_description: PUB AND PRESENT SUMMARY HERE
 
 
