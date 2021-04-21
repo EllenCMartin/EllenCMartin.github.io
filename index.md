@@ -8,7 +8,7 @@ banner_subtitle: Research Scientist
 background_image: /images/ecm.jpg
 
 # all of the following variables are optional -----------------
-page_url: /hello 
+# page_url: /hello 
 # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
