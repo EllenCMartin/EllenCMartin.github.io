@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
-banner_subtitle: Wildlife Biologist. PhD Candidate. Based in Trondheim, Norway.
+banner_subtitle: Wildlife Biologist. PhD Candidate.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
