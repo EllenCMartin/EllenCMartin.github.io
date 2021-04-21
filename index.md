@@ -32,6 +32,9 @@ about_button_label: Git Page # the label on the button
 portfolio: work # the heading for your portfolio and title of your YAML file
 portfolio_description: WORK SUMMARY HERE
 
+portfolio: Publications and Presentations
+portfolio_description: PUB AND PRESENT SUMMARY HERE
+
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
