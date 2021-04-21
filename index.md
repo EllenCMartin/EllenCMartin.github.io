@@ -32,12 +32,6 @@ about_button_label: Git Hub # the label on the button
 portfolio: work # the heading for your portfolio and title of your YAML file
 portfolio_description: WORK SUMMARY HERE
 
-portfolio: Experience
-portfolio_description: EXPERIENCE SUMMARY HERE
-
-portfolio: 'Publications and Presentations'
-portfolio_description: PUB AND PRESENT SUMMARY HERE
-
 
 # optional CTA section --------------------------------------------------
 
