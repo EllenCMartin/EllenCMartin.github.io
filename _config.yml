@@ -8,7 +8,7 @@ title: Ellen C. Martin
 author: Sara Gong
 description: > 
   Research Scientist
-baseurl: "https://ellencmartin.github.io/"
+baseurl: ""
 
 plugins:
   - jekyll-feed
