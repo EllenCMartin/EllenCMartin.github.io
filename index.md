@@ -36,8 +36,8 @@ portfolio_description: I am a wildlife biologist with a special interest in migr
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_description: Want to collaborate? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta_button: mailto:ecmartin33@gmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
@@ -46,10 +46,6 @@ cta_button_label: contact # the label on the button
 
 
   
-**Bio**             I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD with the Centre for Biodiversity Dynamics, investigating patterns across life history characteristics and patterns of synchrony. In particular, I love thinking about these questions with avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of Paul F. Doherty, Jr., where I designed the first design-based survey of lowland and upland breeding shorebirds in interior Alaska on military lands. Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+**Bio**             I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD Research Fellow at the Norwegian University of Science and Technology at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd), investigating patterns across life history characteristics and patterns of synchrony. In particular, I love thinking about these questions in relation to avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of [Paul F. Doherty, Jr.](http://sites.warnercnr.colostate.edu/pauldoherty/), where I designed and conducted the first design-based survey of lowland and upland breeding shorebirds in interior Alaska on military lands. Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
   
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
