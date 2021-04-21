@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
 banner_subtitle: Research Scientist
-background_image: /images/ecm.jpeg
+background_image: /images/ecm.jpg
 
 # all of the following variables are optional -----------------
 # page_url: /hello # only include this variable if you aren't building the page to your primary domain 
@@ -46,7 +46,7 @@ cta_button_label: contact # the label on the button
 
 ### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
   
-**hello** I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD with the Centre for Biodiversity Dynamics, investigating patterns across life history characteristics and patterns of synchrony. In particular, I love thinking about these questions with avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of Paul F. Doherty, Jr., where I designed the first design-based survey of lowland and upland breeding shorebirds in interior Alaska on military lands. Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+**Bio**             I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD with the Centre for Biodiversity Dynamics, investigating patterns across life history characteristics and patterns of synchrony. In particular, I love thinking about these questions with avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of Paul F. Doherty, Jr., where I designed the first design-based survey of lowland and upland breeding shorebirds in interior Alaska on military lands. Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
   
 
 The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
