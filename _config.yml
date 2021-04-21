@@ -8,7 +8,7 @@ title: Ellen C. Martin
 author: Ellen C. Martin
 description: > 
   Research Scientist
-baseurl: ""
+baseurl: "https://ellencmartin.github.io/"
 
 plugins:
   - jekyll-feed
