@@ -1,1 +1,16 @@
-
+Experience:
+  - category: Field Experience
+    items:
+      - item: example.html
+      - item: example2.html
+      - item: example3.html
+  - category: Research Experience
+    items:
+      - item: example.html
+      - item: example2.html
+      - item: example3.html
+  - category: Awards
+    items:
+      - item: example.html
+      - item: example2.html
+      - item: example3.html
