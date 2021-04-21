@@ -2,14 +2,6 @@
 # in the root directory
 
 work:
-  - category: New York City
-    items:
-      - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example2.html
-        image: /images/NYC3.jpg
-      - item: example3.html
-        image: /images/NYC4.jpg
   - category: Education
     items:
       - item: example.html
@@ -18,8 +10,15 @@ work:
         image: /images/NYC3.jpg
       - item: example3.html
         image: /images/NYC4.jpg
-  - category: Los Angeles
   - category: Field Experience
+    items:
+      - item: example.html
+        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+      - item: example2.html
+        image: /images/NYC3.jpg
+      - item: example3.html
+        image: /images/NYC4.jpg
+  - category: Research Experience
     items:
       - item: example.html
         image: /images/LA1.jpg
@@ -27,7 +26,6 @@ work:
         image: /images/LA3.jpg
       - item: example3.html
         image: /images/LA4.jpg 
-        image: /images/LA4.jpg
   - category: Research Experience
     items:
       - item: example.html
