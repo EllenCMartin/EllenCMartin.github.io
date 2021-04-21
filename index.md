@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
+banner_title: Ellen C. Martin 
+banner_subtitle: Wildlife Biologist. PhD Candidate. Based in Trondheim, Norway.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -15,8 +15,8 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
+twitter_username: @ECMartin_Sci # # your twitter handle
+github_username:  EllenCMartin # your github username
 linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
@@ -30,7 +30,7 @@ about_button_label: get hello # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio_description: I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD with the Centre for Biodiversity Dynamics, investigating patterns across life history characteristics and patterns of synchrony. In particular, I love thinking about these questions with avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of Paul F. Doherty, Jr., where I designed the first design-based survey of lowland and upland breeding shorebirds in interior Alaska on military lands. Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.
 
 # optional CTA section --------------------------------------------------
 
