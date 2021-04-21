@@ -32,6 +32,10 @@ about_button_label: Git Hub # the label on the button
 portfolio: Experience # the heading for your portfolio and title of your YAML file
 portfolio_description: #TEXT IF I WANT IT HERE??
 
+{% for section in page.sections %}
+<div>{{ section | Publications and Presentations }}</div>
+{% endfor %}
+
 
 # optional CTA section --------------------------------------------------
 
