@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
 banner_subtitle: Research Scientist
-background_image: /images/background.jpeg
+background_image: /images/ecm.jpeg
 
 # all of the following variables are optional -----------------
 # page_url: /hello # only include this variable if you aren't building the page to your primary domain 
