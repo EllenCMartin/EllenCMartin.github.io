@@ -1,6 +1,8 @@
 <!-- design: hello for github pages by sng -->
+
 <!DOCTYPE html>
 <html>
+
   <!--HEAD-->
   <head>
     <style>html{visibility: hidden;opacity:0;}</style>
@@ -8,13 +10,16 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="" />
+
     <!--favicon-->
     {% if page.favicon %}
     <link rel="icon" href= "{{ page.favicon }}" type="image/x-icon" />
     {% endif %}
+
     <!--jekyll plugins-->
     {%- feed_meta -%}
     {%- seo -%}
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     {% if page.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ page.google_analytics }}"></script>
@@ -22,9 +27,12 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
+
       gtag('config', '{{ page.google_analytics }}');
     </script>
     {% endif %}
+
+
     <script src="/js/jquery.min.js"></script>
     <script src="/js/jquery.dropotron.min.js"></script>
     <script src="/js/jquery.scrolly.min.js"></script>
@@ -39,13 +47,17 @@
         <link rel="stylesheet" href="/css/style-noscript.css" />
     </noscript>
     <meta name="viewport" content="width=device-width">
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   </head>
+
+
   <body class="index">
+
     <!-- HEADER -->		
     <header id="header">
       <h1 id="logo" style="text-transform:lowercase">
-        <a href="/">Ellen C. Martin / Home</a></h1>
+        <a href="/">hello</a></h1>
       <nav id="nav">
         <ul>
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
@@ -58,25 +70,34 @@
         </ul>
       </nav>
     </header>
+
     <!-- BANNER -->		
     <section id="banner" 
     {% if page.background_image %}
     style="background-image: url('{{ page.background_image }}'); background-attachment: fixed; background-size: cover;"
         {% endif %}>
+
         <div class="inner">
+
             <h2 style="font-size:3em; text-transform:none">{{ page.banner_title }}</h2>
             <p style="text-transform:none;">{{ page.banner_subtitle }}</p>
       
         </div>
+
     </section>
+
 <!--CONTENT-->
+
     <div class="page-content">
+
         <article id="main">
             <!-- section: about -->
               <header class="special container" id="about">
                 <h2 ><strong>about</strong></h2>
               </header>
+
               <section class="special container" style="margin-bottom:10em">
+
                   <div style="padding: 0 1em; text-align:center"> 
                     {{ content }}</div>
       
@@ -94,7 +115,6 @@
 
             <!-- section: work-->
             {% if page.portfolio %}
-	    
             <section class="wrapper style3 container special" id="{{ page.portfolio }}">
 					      <header class="special">
                   <h2><strong>{{ page.portfolio }}</strong></h2>
@@ -102,15 +122,18 @@
                 <p>{{ page.portfolio_description }}</p>
                 {% for categories in site.data[page.portfolio][page.portfolio] %}
                 <div class="row">
+
                           <div class="12u">
                               <h3 style="margin-bottom:2em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
                           </div>
+
                           {% for items in categories.items %}
                           <div class="6u item">
                             <section>
                               <div class="image featured">
                                   <img src="{{ items.image }}" alt="" />
                               </div>
+
                               {% include {{ items.item }} %}
                             </section>
                           </div>
@@ -122,6 +145,7 @@
             </section>
             {% endif %}
       </article>
+
         <!-- section: cta -->
         {% if page.cta %}
       <section class="cta" id="{{ page.cta }}" 
@@ -146,8 +170,10 @@
         </section>
         {% endif %}
     </div>
+
     <!-- Footer -->
     <footer id="footer">
+
         <ul class="icons">
             {% if page.twitter_username %}
             <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
@@ -162,11 +188,15 @@
             <li><a href="https://linkedin.com/in/{{ page.linkedin }}" class="icon circle fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
             {% endif %}
         </ul>
+
     <ul class="copyright">
         <li>this website is maintained by {{ site.author}}</li>
         <li>design: <a href="https://saragong.github.io/hello/"><strong>hello</strong></a> for github pages</li>
         <li>adapted from <a href="https://html5up.net/twenty"><strong>Twenty</strong></a> by HTML5 Up</li>
     </ul>
+
 </footer>
+
   </body>
+
 </html>
