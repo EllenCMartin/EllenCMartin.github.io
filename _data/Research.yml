@@ -3,7 +3,7 @@
 
 Research:
  - category: PhD Research
-    items:
+     items:
       - item: phd1.html
         image: /images/shorebird.jpg # optionally, include the file path for an image for each item
       - item: phd2.html
