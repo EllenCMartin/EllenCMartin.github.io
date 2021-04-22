@@ -57,7 +57,7 @@
     <!-- HEADER -->		
     <header id="header">
       <h1 id="logo" style="text-transform:lowercase">
-        <a href="/">hello</a></h1>
+        <a href="/">Ellen C. Martin / Home</a></h1>
       <nav id="nav">
         <ul>
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
@@ -115,6 +115,7 @@
 
             <!-- section: work-->
             {% if page.portfolio %}
+	    <center>
             <section class="wrapper style3 container special" id="{{ page.portfolio }}">
 					      <header class="special">
                   <h2><strong>{{ page.portfolio }}</strong></h2>
@@ -139,7 +140,7 @@
                           </div>
                           {% endfor %}
                 </div>
-
+ 		</center>
                 {% endfor %}
 
             </section>
