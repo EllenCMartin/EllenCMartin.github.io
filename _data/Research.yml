@@ -2,27 +2,25 @@
 # in the root directory
 
 Research:
- - category: PhD Research
-     items:
+  - category: PhD Research
+    items:
       - item: phd1.html
         image: /images/shorebird.jpg # optionally, include the file path for an image for each item
       - item: phd2.html
-        image: /images/shorebird.jpg # optionally, include the file path for an image for each item
- - category: Masters Research
+        image: /images/ecm.jpg
+
+  - category: Masters Research 
     items:
       - item: ms1.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+        image: /images/shorebird.jpg # optionally, include the file path for an image for each item
       - item: ms2.html
-        image: /images/NYC3.jpg
- - category: International Org Experience
+        image: /images/ecm.jpg
+
+  - category: Federal Agency and International Org Experience
     items:
       - item: example.html
         image: /images/LA1.jpg
       - item: example.html
         image: /images/LA2.jpg
- - category: Field Experience
-    items:
-      - item: example.html
-        image: /images/LA1.jpg
-      - item: example.html
-        image: /images/LA2.jpg
+      - item: example2.html
+        image: /images/LA3.jpg
