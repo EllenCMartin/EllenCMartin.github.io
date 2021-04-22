@@ -4,7 +4,8 @@
 Research:
   - category: Publications and Select Presentations
     items:
-      -item: phd1.html
+      - item: publications.html
+      
   - category: PhD Research
     items:
       - item: phd1.html
