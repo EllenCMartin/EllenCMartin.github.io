@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
-banner_subtitle: Wildlife and Conservation Biology. PhD Candidate. Research Scientist.
+banner_subtitle: Wildlife and Conservation Biologist. PhD Candidate. Research Scientist.
 background_image: /images/mainbanner2.jpg
 
 # all of the following variables are optional -----------------
@@ -31,7 +31,7 @@ about_button_label: Research Gate # the label on the button
 
 
 portfolio: Research # the heading for your portfolio and title of your YAML file
-portfolio_description: #TEXT IF I WANT IT HERE??
+portfolio_description: LIST OF PUBLICATIONS AND PRESENTATIONS HERE #??
 
 
 # optional CTA section --------------------------------------------------
@@ -48,6 +48,8 @@ cta_button_label: contact # the label on the button
 
 
   
-**Bio**             I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD Research Fellow at the Norwegian University of Science and Technology at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd), investigating patterns across life history characteristics and patterns of synchrony. In particular, I love thinking about these questions in relation to avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of [Paul F. Doherty, Jr.](http://sites.warnercnr.colostate.edu/pauldoherty/), where I designed and conducted the first design-based survey of lowland and upland breeding shorebirds in interior Alaska on military lands. Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
+**Bio**             I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD Research Fellow at the Norwegian University of Science and Technology at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd), investigating patterns in spatial population synchrony across life history characteristics and taxa. In particular, I love thinking about these questions in relation to avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of [Paul F. Doherty, Jr.](http://sites.warnercnr.colostate.edu/pauldoherty/), where I designed and conducted the first survey of lowland and upland breeding shorebirds in interior Alaska on military lands. [Read about it here](https://wildlife.org/jwm-shorebirds-take-advantage-of-alaska-military-lands/). Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. 
+
+Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
   
 
