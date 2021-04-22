@@ -33,23 +33,23 @@ about_button_label: Research Gate # the label on the button
 portfolio: Research # the heading for your portfolio and title of your YAML file
 portfolio_description: Select Presentations and Publications: (* invited speaker)
 
-Martin, E.C., K.A. Jochum, C.F. Bagley & P.F. Doherty, Jr. 2020. Shorebird Abundance Estimates in Interior Alaska. 
-           Journal of Wildlife Management 84(7): 1283-1295.
-Martin, E.C., K.A. Jochum, C.F. Bagley & P.F. Doherty, Jr. 2020. Shorebird Abundance Estimate in Interior Alaska.
-           Oral Presentation at: International Wader Study Group Conference. 2020 October 11. Digital.
-Martin, E.C.*. 2019. Conservation Challenges: Perspectives of the United States and Europe. October 16, 2019. International
-            School of Geneva. Coppet, Switzerland. Presentation to Ecology High School course.
-Martin, E.C.*, Jochum, K.A., C. Bagley, & P. F. Doherty, Jr. 2019. Shorebird Abundance Estimates on  
-          Military Lands in Interior Alaska. Oral Presentation at: Alaska Bird Conference. 2019 March 8; Fairbanks,
-          Alaska.
-Martin, E.C.*, Jochum, K.A., C. Bagley, & P. F. Doherty, Jr. 2017. Shorebird Use of Military Lands in
-            Interior Alaska. Oral Presentation at: Alaska Shorebird Group Meeting. 2017 Dec 4; Anchorage, Alaska.
-Martin, E.C., Jochum, K.A., C. Bagley, & P. F. Doherty, Jr. 2017. Shorebird Use of Military Lands in
-          Interior Alaska. Poster session presented at: The Wildlife Society National Conference. 2017 Sept 23-27;    
-          Albuquerque, New Mexico.
-Martin E.C.*, Jochum K.A., Bagley C.F. & J. Haddix.2015. Identifying Shorebird Breeding Sites to
-         protect suitable Shorebird Nesting Habitat on Military Lands in Interior Alaska. Oral presentation at Boreal
-         Partners in Flight and Alaska Shorebird Group Annual Meeting, 2015 Dec 8-10; Anchorage, Alaska. 
+           Martin, E.C., K.A. Jochum, C.F. Bagley & P.F. Doherty, Jr. 2020. Shorebird Abundance Estimates in Interior Alaska. 
+                      Journal of Wildlife Management 84(7): 1283-1295.
+           Martin, E.C., K.A. Jochum, C.F. Bagley & P.F. Doherty, Jr. 2020. Shorebird Abundance Estimate in Interior Alaska.
+                      Oral Presentation at: International Wader Study Group Conference. 2020 October 11. Digital.
+           Martin, E.C.*. 2019. Conservation Challenges: Perspectives of the United States and Europe. October 16, 2019. International
+                       School of Geneva. Coppet, Switzerland. Presentation to Ecology High School course.
+           Martin, E.C.*, Jochum, K.A., C. Bagley, & P. F. Doherty, Jr. 2019. Shorebird Abundance Estimates on  
+                       Military Lands in Interior Alaska. Oral Presentation at: Alaska Bird Conference. 2019 March 8; Fairbanks,
+                       Alaska.
+           Martin, E.C.*, Jochum, K.A., C. Bagley, & P. F. Doherty, Jr. 2017. Shorebird Use of Military Lands in
+                      Interior Alaska. Oral Presentation at: Alaska Shorebird Group Meeting. 2017 Dec 4; Anchorage, Alaska.
+           Martin, E.C., Jochum, K.A., C. Bagley, & P. F. Doherty, Jr. 2017. Shorebird Use of Military Lands in
+                      Interior Alaska. Poster session presented at: The Wildlife Society National Conference. 2017 Sept 23-27;    
+                      Albuquerque, New Mexico.
+           Martin E.C.*, Jochum K.A., Bagley C.F. & J. Haddix.2015. Identifying Shorebird Breeding Sites to
+                       protect suitable Shorebird Nesting Habitat on Military Lands in Interior Alaska. Oral presentation at Boreal
+                      Partners in Flight and Alaska Shorebird Group Annual Meeting, 2015 Dec 8-10; Anchorage, Alaska. 
 
  
 
