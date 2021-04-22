@@ -2,14 +2,11 @@
 # in the root directory
 
 Research:
-  - category: Publications
+  - category: Publications & Select Presentations
     items:
       - item: publications.html
-      
-  - category: Select Presentations
-    items:
-      - item: presentations.html
-      
+      - item: presentations.html 
+     
   - category: PhD Research
     items:
       - item: phd1.html
