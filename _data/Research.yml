@@ -2,25 +2,25 @@
 # in the root directory
 
 Research:
-  - category: PhD Research
+ - category: PhD Research
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       - item: example2.html
         image: /images/NYC3.jpg
-  - category: Masters Research
+ - category: Masters Research
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       - item: example2.html
         image: /images/NYC3.jpg
-  - category: International Org Experience
+ - category: International Org Experience
     items:
       - item: example.html
         image: /images/LA1.jpg
       - item: example.html
         image: /images/LA2.jpg
-  - category: Field Experience
+ - category: Field Experience
     items:
       - item: example.html
         image: /images/LA1.jpg
