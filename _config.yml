@@ -6,8 +6,7 @@ _config.yml:
 # required, replace with your own information -----
 title: Ellen C. Martin
 author: Ellen C. Martin
-description: > 
-  Research Scientist
+description: > Research Scientist
 baseurl: "https://ellencmartin.github.io/"
 
 plugins:
