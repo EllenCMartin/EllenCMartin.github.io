@@ -54,7 +54,7 @@ cta_button_label: contact # the label on the button
 
 Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
 
-Select Presentations and Publications: (* invited speaker)
+<h2>Select Presentations and Publications: (* invited speaker)</h2>
 
            Martin, E.C., K.A. Jochum, C.F. Bagley & P.F. Doherty, Jr. 2020. Shorebird Abundance Estimates in Interior Alaska. 
                       Journal of Wildlife Management 84(7): 1283-1295.
