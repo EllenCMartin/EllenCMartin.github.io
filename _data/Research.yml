@@ -2,8 +2,9 @@
 # in the root directory
 
 Research:
-  Select Presentations and Publications: (* invited speaker)
-
+  - category: Publications and Select Presentations
+    items:
+      -item: phd1.html
   - category: PhD Research
     items:
       - item: phd1.html
