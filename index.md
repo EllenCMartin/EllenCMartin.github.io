@@ -54,8 +54,8 @@ I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State
 
 Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
 
-![alt text for screen readers](/images/ecm1.jpg "Text to show on mouseover").<img src="/images/ecm1.jpg" alt="Bird banding, Powedermill Banding Station" style="height: 300px; width:300px;"/>
-<img src="/images/ecm1.jpg" alt="Bird banding, Powedermill Banding Station" style="height: 300px; width:300px;"/>
+<img src="/images/ecm1.jpg" alt="Bird banding, Powedermill Banding Station" style="height: 200px; width:200px;"/> .<img src="/images/ecm1.jpg" alt="Bird banding, Powedermill Banding Station" style="height: 200px; width:200px;"/><img src="/images/ecm1.jpg" alt="Bird banding, Powedermill Banding Station" style="height: 200px; width:200px;"/>
+
 
 
 
