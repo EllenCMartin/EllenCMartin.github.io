@@ -12,7 +12,7 @@ Research:
       - item: phd1.html
         image: /images/phd1.png # optionally, include the file path for an image for each item
       - item: phd2.html
-        image: /images/phd1.png
+        image: /images/phd2.jpg
 
   - category: Masters Research 
     items:
