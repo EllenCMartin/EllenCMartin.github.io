@@ -46,9 +46,7 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Interested in spatial population synchrony, shorebirds, migration, and protected area management.  
-
-
+### **Interested in spatial population synchrony, shorebirds, migration, and protected area management**. 
   
 I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD Research Fellow at the Norwegian University of Science and Technology at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd), investigating patterns in spatial population synchrony across life history characteristics and taxa. I work at the interface of the [community dynamics lab](https://www.ntnu.edu/cbd/research/community-dynamics) and the [population ecology lab](https://www.ntnu.edu/cbd/research/population-ecology). In particular, I love thinking about my research questions in relation to avian &/or arctic species. 
 
