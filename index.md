@@ -53,3 +53,9 @@ I am a wildlife biologist with a special interest in migration, spatial populati
 I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of [Paul F. Doherty, Jr.](http://sites.warnercnr.colostate.edu/pauldoherty/), where I designed and conducted the first survey of lowland and upland breeding shorebirds in interior Alaska on military lands. [Read about it here](https://wildlife.org/jwm-shorebirds-take-advantage-of-alaska-military-lands/). Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. 
 
 Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
+
+![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+
+
+
