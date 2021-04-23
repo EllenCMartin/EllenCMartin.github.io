@@ -46,10 +46,12 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Wildlife Biologist. PhD Candidate. Based in Trondheim, Norway.*  
+### Interested in spatial population synchrony, shorebirds, migration, and protected area management.  
 
 
   
-**Bio**             I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD Research Fellow at the Norwegian University of Science and Technology at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd), investigating patterns in spatial population synchrony across life history characteristics and taxa. In particular, I love thinking about these questions in relation to avian species. I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of [Paul F. Doherty, Jr.](http://sites.warnercnr.colostate.edu/pauldoherty/), where I designed and conducted the first survey of lowland and upland breeding shorebirds in interior Alaska on military lands. [Read about it here](https://wildlife.org/jwm-shorebirds-take-advantage-of-alaska-military-lands/). Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. 
+I am a wildlife biologist with a special interest in migration, spatial population synchrony, and large data management. I am working as a PhD Research Fellow at the Norwegian University of Science and Technology at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd), investigating patterns in spatial population synchrony across life history characteristics and taxa. I work at the interface of the [community dynamics lab](https://www.ntnu.edu/cbd/research/community-dynamics) and the [population ecology lab](https://www.ntnu.edu/cbd/research/population-ecology). In particular, I love thinking about my research questions in relation to avian &/or arctic species. 
+
+I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State University in the lab of [Paul F. Doherty, Jr.](http://sites.warnercnr.colostate.edu/pauldoherty/), where I designed and conducted the first survey of lowland and upland breeding shorebirds in interior Alaska on military lands. [Read about it here](https://wildlife.org/jwm-shorebirds-take-advantage-of-alaska-military-lands/). Before that, I was an undergraduate at The College of William and Mary studying Biology and Chinese language. 
 
 Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
