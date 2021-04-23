@@ -56,6 +56,8 @@ Beyond my scientific interests, I am excited about biking, skiing, growing plant
 
 ![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
 ![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 
 
 
