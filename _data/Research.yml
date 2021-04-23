@@ -11,8 +11,8 @@ Research:
     items:
       - item: phd1.html
         image: /images/phd1.png # optionally, include the file path for an image for each item
-      - item: phd1.html
-        image: /images/shorebird.jpg
+      - item: phd2.html
+        image: /images/phd1.png
 
   - category: Masters Research 
     items:
