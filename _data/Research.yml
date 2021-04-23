@@ -17,7 +17,7 @@ Research:
   - category: Masters Research 
     items:
       - item: ms1.html
-        image: /images/ms1.jpg # optionally, include the file path for an image for each item
+        image: <img align="right" width="200" height="100" src="/images/ms1.jpg">
       - item: ms2.html
         image: /images/shorebird.jpg
 
