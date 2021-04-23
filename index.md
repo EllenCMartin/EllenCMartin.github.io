@@ -55,8 +55,7 @@ I received my MS in Fish, Wildlife, and Conservation Biology from Colorado State
 Beyond my scientific interests, I am excited about biking, skiing, growing plants, and music.  
 
 ![alt text for screen readers](/images/ecm.jpg "Text to show on mouseover").
-![MarineGEO circle logo](/images/ecm.jpg "MarineGEO logo")
-<img src="/images/ecm.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="/images/ecm.jpg" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
 
 
 
