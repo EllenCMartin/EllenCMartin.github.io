@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 # these variables are required -------------------------------
 banner_title: Ellen C. Martin 
-banner_subtitle: Wildlife and Conservation Biologist. PhD Candidate. Research Scientist.
+banner_subtitle: Wildlife Biologist. PhD Candidate. Research Scientist.
 background_image: /images/mainbanner2.jpg
 
 # all of the following variables are optional -----------------
